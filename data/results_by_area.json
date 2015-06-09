@@ -1,1 +1,361 @@
+[{"name":"01100 - Innere Altstadt (Urnenwahlbezirk)","results":{"ulbig":17.6,"vogel":3.9,"festerling":5.0,"stange":47.5,"stosch":3.3,"hilbert":22.7}}
+{"name":"02100 - Pirnaische Vorstadt (Grunaer Str (Urnenwahlbezirk)","results":{"ulbig":17.3,"vogel":2.3,"festerling":10.4,"stange":46.1,"stosch":3.2,"hilbert":20.7}}
+{"name":"02200 - Pirnaische Vorstadt (Zirkusstr.) (Urnenwahlbezirk)","results":{"ulbig":17.6,"vogel":5.2,"festerling":9.5,"stange":37.1,"stosch":3.1,"hilbert":27.6}}
+{"name":"02400 - Pirnaische Vorst. (Pestalozzi/Steinstr.) (Urnenwahlbezirk)","results":{"ulbig":26.5,"vogel":3.7,"festerling":9.8,"stange":33.0,"stosch":0.7,"hilbert":26.3}}
+{"name":"03100 - Seevorstadt-Ost (Prager Str.) (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":4.5,"festerling":8.1,"stange":41.8,"stosch":3.0,"hilbert":24.8}}
+{"name":"03200 - Seevorstadt-Ost (Räcknitzstr.) (Urnenwahlbezirk)","results":{"ulbig":18.7,"vogel":3.9,"festerling":5.9,"stange":38.6,"stosch":2.6,"hilbert":30.3}}
+{"name":"03300 - Seevorstadt-Ost (Lindengasse) (Urnenwahlbezirk)","results":{"ulbig":18.6,"vogel":4.8,"festerling":5.0,"stange":32.1,"stosch":1.0,"hilbert":38.5}}
+{"name":"03400 - Strehlen (Tiergartenstr.-West/Ost) (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":6.1,"festerling":9.9,"stange":32.3,"stosch":2.2,"hilbert":33.9}}
+{"name":"04100 - Wilsdruffer Vorstadt (Ostra-Allee) (Urnenwahlbezirk)","results":{"ulbig":14.6,"vogel":3.3,"festerling":6.4,"stange":37.1,"stosch":4.6,"hilbert":34.0}}
+{"name":"04200 - Wilsdruffer Vorstadt (Ermischstr.) (Urnenwahlbezirk)","results":{"ulbig":21.0,"vogel":6.0,"festerling":6.8,"stange":35.2,"stosch":1.9,"hilbert":29.0}}
+{"name":"04300 - Wilsdruffer Vorstadt (Maternistr.) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":9.2,"festerling":9.7,"stange":34.2,"stosch":3.4,"hilbert":27.5}}
+{"name":"04400 - Seevorstadt-West (Am See) (Urnenwahlbezirk)","results":{"ulbig":25.6,"vogel":3.6,"festerling":7.8,"stange":33.0,"stosch":1.6,"hilbert":28.5}}
+{"name":"04500 - Seevorstadt-West (Sternplatz) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":6.6,"festerling":10.1,"stange":40.3,"stosch":2.7,"hilbert":24.4}}
+{"name":"04600 - Seevorstadt-West (Feldgasse) (Urnenwahlbezirk)","results":{"ulbig":19.9,"vogel":5.3,"festerling":9.7,"stange":33.3,"stosch":0.7,"hilbert":31.1}}
+{"name":"05100 - Friedrichstadt (Löbtauer Str.) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":3.3,"festerling":10.8,"stange":40.8,"stosch":6.3,"hilbert":22.9}}
+{"name":"05200 - Friedrichstadt (Schäferstr.-Ost) (Urnenwahlbezirk)","results":{"ulbig":10.6,"vogel":3.1,"festerling":7.9,"stange":51.5,"stosch":8.1,"hilbert":18.7}}
+{"name":"05300 - Friedrichstadt (Friedrichstr.) (Urnenwahlbezirk)","results":{"ulbig":11.8,"vogel":3.5,"festerling":11.4,"stange":51.7,"stosch":4.5,"hilbert":17.1}}
+{"name":"06100 - Johannstadt-Nord (Elsasser Str.) (Urnenwahlbezirk)","results":{"ulbig":15.6,"vogel":4.4,"festerling":10.0,"stange":34.0,"stosch":1.0,"hilbert":35.0}}
+{"name":"06200 - Johannstadt-Nord (Bönischplatz) (Urnenwahlbezirk)","results":{"ulbig":16.2,"vogel":2.0,"festerling":8.2,"stange":45.5,"stosch":3.3,"hilbert":24.8}}
+{"name":"06300 - Johannstadt-Nord (Hopfgartenstr.) (Urnenwahlbezirk)","results":{"ulbig":13.2,"vogel":4.6,"festerling":17.9,"stange":35.7,"stosch":2.5,"hilbert":26.1}}
+{"name":"06400 - Johannstadt-Nord (Pfeifferhannsstr.) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":3.5,"festerling":10.0,"stange":43.5,"stosch":3.1,"hilbert":24.6}}
+{"name":"06500 - Johannstadt-Nord (Th.-Müntzer-Platz) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":2.9,"festerling":6.5,"stange":48.2,"stosch":2.9,"hilbert":26.3}}
+{"name":"06600 - Johannstadt-Nord (Gutenbergstr.) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":3.7,"festerling":5.9,"stange":40.9,"stosch":2.3,"hilbert":31.3}}
+{"name":"06800 - Johannstadt-Nord (Neubert/Fiedlerstr.) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":1.9,"festerling":5.0,"stange":45.1,"stosch":4.2,"hilbert":28.6}}
+{"name":"07100 - Johannstadt-Süd (Marschnerstr.) (Urnenwahlbezirk)","results":{"ulbig":18.5,"vogel":4.3,"festerling":7.3,"stange":33.7,"stosch":1.2,"hilbert":35.0}}
+{"name":"07200 - Johannstadt-Süd (Wintergartenstr.) (Urnenwahlbezirk)","results":{"ulbig":20.2,"vogel":7.9,"festerling":5.1,"stange":29.4,"stosch":1.0,"hilbert":36.3}}
+{"name":"07300 - Johannstadt-Süd (Nicolaistr.) (Urnenwahlbezirk)","results":{"ulbig":18.4,"vogel":4.3,"festerling":7.9,"stange":32.3,"stosch":1.5,"hilbert":35.5}}
+{"name":"07401 - Johannstadt-Süd (Schumannstr.) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":6.8,"festerling":11.6,"stange":28.4,"stosch":0.8,"hilbert":37.2}}
+{"name":"07402 - Johannstadt-Süd (Comeniusplatz) (Urnenwahlbezirk)","results":{"ulbig":19.7,"vogel":6.4,"festerling":7.8,"stange":26.6,"stosch":1.8,"hilbert":37.6}}
+{"name":"07500 - Johannstadt-Süd (Permoserstr.) (Urnenwahlbezirk)","results":{"ulbig":18.3,"vogel":5.6,"festerling":4.5,"stange":37.3,"stosch":2.0,"hilbert":32.4}}
+{"name":"07600 - Johannstadt-Süd (Cranachstr.) (Urnenwahlbezirk)","results":{"ulbig":13.2,"vogel":7.7,"festerling":10.0,"stange":39.7,"stosch":0.3,"hilbert":29.0}}
+{"name":"07700 - Johannstadt-Süd (Zöllnerstr.) (Urnenwahlbezirk)","results":{"ulbig":13.6,"vogel":4.0,"festerling":8.7,"stange":47.7,"stosch":2.8,"hilbert":23.2}}
+{"name":"07800 - Johannstadt-Süd (Maria-Cebotari-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.4,"vogel":5.5,"festerling":12.2,"stange":34.9,"stosch":2.1,"hilbert":28.9}}
+{"name":"07900 - Johannstadt-Süd (Lortzingstr.) (Urnenwahlbezirk)","results":{"ulbig":19.6,"vogel":5.4,"festerling":8.0,"stange":33.5,"stosch":0.8,"hilbert":32.7}}
+{"name":"11100 - Äuß. Neust. (Stetzscher/Katharinenstr.) (Urnenwahlbezirk)","results":{"ulbig":6.4,"vogel":1.3,"festerling":1.4,"stange":69.8,"stosch":7.5,"hilbert":13.7}}
+{"name":"11200 - Äußere Neustadt (Timäusstr.) (Urnenwahlbezirk)","results":{"ulbig":6.1,"vogel":0.2,"festerling":2.1,"stange":71.8,"stosch":7.2,"hilbert":12.6}}
+{"name":"11300 - Äußere Neustadt (Jordanstr.) (Urnenwahlbezirk)","results":{"ulbig":7.1,"vogel":1.6,"festerling":4.9,"stange":65.5,"stosch":7.7,"hilbert":13.2}}
+{"name":"11400 - Äußere Neustadt (Böhmische Str.) (Urnenwahlbezirk)","results":{"ulbig":6.0,"vogel":1.3,"festerling":1.7,"stange":69.6,"stosch":7.1,"hilbert":14.3}}
+{"name":"11500 - Äußere Neustadt (Görlitzer Str.) (Urnenwahlbezirk)","results":{"ulbig":6.2,"vogel":0.4,"festerling":3.0,"stange":71.4,"stosch":7.8,"hilbert":11.1}}
+{"name":"11601 - Äußere Neustadt (Schönfelder Str.) (Urnenwahlbezirk)","results":{"ulbig":5.7,"vogel":1.4,"festerling":1.3,"stange":76.7,"stosch":4.5,"hilbert":10.4}}
+{"name":"11602 - Äußere Neustadt (Martin-Luther-Platz) (Urnenwahlbezirk)","results":{"ulbig":5.8,"vogel":0.8,"festerling":2.5,"stange":74.5,"stosch":5.3,"hilbert":11.1}}
+{"name":"11700 - Äußere Neustadt (Frühlingstr.) (Urnenwahlbezirk)","results":{"ulbig":5.7,"vogel":1.1,"festerling":2.2,"stange":76.0,"stosch":5.7,"hilbert":9.2}}
+{"name":"11800 - Äuß. Neust. (Schönbrunn-/Ebersw. Str.) (Urnenwahlbezirk)","results":{"ulbig":5.5,"vogel":1.3,"festerling":4.2,"stange":69.4,"stosch":7.5,"hilbert":12.2}}
+{"name":"12100 - Radeberger Vorstadt (Jägerstr.) (Urnenwahlbezirk)","results":{"ulbig":8.4,"vogel":1.9,"festerling":2.9,"stange":65.4,"stosch":2.3,"hilbert":19.1}}
+{"name":"12201 - Radeberger Vorstadt (Forststr.) (Urnenwahlbezirk)","results":{"ulbig":10.5,"vogel":1.7,"festerling":5.2,"stange":54.4,"stosch":3.7,"hilbert":24.5}}
+{"name":"12202 - Radeberger Vorst. (Arndtstr.) (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":2.7,"festerling":4.8,"stange":47.7,"stosch":2.1,"hilbert":27.1}}
+{"name":"12301 - Radeberger Vorstadt (Am Brauhaus) (Urnenwahlbezirk)","results":{"ulbig":14.4,"vogel":3.2,"festerling":5.7,"stange":46.2,"stosch":2.7,"hilbert":27.8}}
+{"name":"12302 - Radeberger Vorstadt (Fischhausstr.) (Urnenwahlbezirk)","results":{"ulbig":12.2,"vogel":4.6,"festerling":8.5,"stange":42.7,"stosch":3.0,"hilbert":29.0}}
+{"name":"12400 - Radeberger Vorstadt (Am Jägerpark) (Urnenwahlbezirk)","results":{"ulbig":13.7,"vogel":4.3,"festerling":13.4,"stange":44.9,"stosch":2.2,"hilbert":21.5}}
+{"name":"13100 - Innere Neustadt (Königstr.) (Urnenwahlbezirk)","results":{"ulbig":12.8,"vogel":2.7,"festerling":5.3,"stange":51.4,"stosch":4.1,"hilbert":23.7}}
+{"name":"13200 - Innere Neustadt (Sarrasanistr.) (Urnenwahlbezirk)","results":{"ulbig":14.3,"vogel":2.7,"festerling":7.1,"stange":42.5,"stosch":2.0,"hilbert":31.4}}
+{"name":"13300 - Innere Neustadt (Wigardstr.) (Urnenwahlbezirk)","results":{"ulbig":8.9,"vogel":1.7,"festerling":5.4,"stange":61.0,"stosch":4.5,"hilbert":18.4}}
+{"name":"13400 - Äußere Neustadt (Hoyerswerdaer Str.) (Urnenwahlbezirk)","results":{"ulbig":10.2,"vogel":1.7,"festerling":3.6,"stange":60.9,"stosch":3.1,"hilbert":20.5}}
+{"name":"14100 - Leipziger Vorstadt (Eisenbahnstr.) (Urnenwahlbezirk)","results":{"ulbig":7.6,"vogel":5.4,"festerling":9.7,"stange":55.6,"stosch":9.0,"hilbert":12.6}}
+{"name":"14200 - Leipziger Vorstadt (Rudolfstr.) (Urnenwahlbezirk)","results":{"ulbig":3.8,"vogel":1.4,"festerling":2.6,"stange":75.3,"stosch":8.0,"hilbert":9.0}}
+{"name":"14300 - Leipziger Vorstadt (Helgolandstr.) (Urnenwahlbezirk)","results":{"ulbig":4.4,"vogel":1.5,"festerling":2.3,"stange":74.6,"stosch":8.9,"hilbert":8.2}}
+{"name":"14401 - Leipziger Vorstadt (Unterer Hecht-West) (Urnenwahlbezirk)","results":{"ulbig":4.4,"vogel":1.2,"festerling":5.8,"stange":71.0,"stosch":9.1,"hilbert":8.5}}
+{"name":"14402 - Leipziger Vorstadt (Unterer Hecht-Ost) (Urnenwahlbezirk)","results":{"ulbig":5.6,"vogel":1.2,"festerling":4.3,"stange":71.9,"stosch":8.3,"hilbert":8.7}}
+{"name":"14500 - Leipziger Vorstadt (Mittlerer Hecht) (Urnenwahlbezirk)","results":{"ulbig":8.3,"vogel":2.8,"festerling":6.0,"stange":59.7,"stosch":5.1,"hilbert":18.0}}
+{"name":"14600 - Leipziger Vorstadt (Oberer Hecht) (Urnenwahlbezirk)","results":{"ulbig":14.3,"vogel":5.0,"festerling":11.4,"stange":35.3,"stosch":1.0,"hilbert":32.9}}
+{"name":"15100 - Albertstadt-West (Urnenwahlbezirk)","results":{"ulbig":9.0,"vogel":2.6,"festerling":5.9,"stange":55.9,"stosch":4.4,"hilbert":22.2}}
+{"name":"15300 - Albertstadt-Ost (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":1.9,"festerling":5.8,"stange":46.0,"stosch":3.1,"hilbert":28.7}}
+{"name":"21100 - Stadt Neudorf (Weimarische Str.) (Urnenwahlbezirk)","results":{"ulbig":10.5,"vogel":2.2,"festerling":9.6,"stange":56.6,"stosch":6.1,"hilbert":15.1}}
+{"name":"21200 - Stadt Neudorf (Moritzburger Str.) (Urnenwahlbezirk)","results":{"ulbig":11.3,"vogel":4.0,"festerling":11.7,"stange":48.6,"stosch":4.8,"hilbert":19.6}}
+{"name":"21301 - Pieschen-Süd (Bürgerstr.-West) (Urnenwahlbezirk)","results":{"ulbig":13.3,"vogel":2.6,"festerling":10.4,"stange":49.4,"stosch":4.0,"hilbert":20.4}}
+{"name":"21302 - Pieschen-Süd (Bürgerstr.-Ost) (Urnenwahlbezirk)","results":{"ulbig":9.8,"vogel":3.5,"festerling":10.4,"stange":51.6,"stosch":6.7,"hilbert":18.0}}
+{"name":"21400 - Pieschen-Süd (Altpieschen) (Urnenwahlbezirk)","results":{"ulbig":11.8,"vogel":3.5,"festerling":11.2,"stange":52.1,"stosch":2.9,"hilbert":18.5}}
+{"name":"21500 - Pieschen-Süd (Leisniger Platz) (Urnenwahlbezirk)","results":{"ulbig":12.7,"vogel":4.9,"festerling":11.6,"stange":43.9,"stosch":5.9,"hilbert":21.1}}
+{"name":"22100 - Trachau-Süd (Alttrachau) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":5.5,"festerling":13.5,"stange":36.6,"stosch":3.8,"hilbert":24.8}}
+{"name":"22200 - Trachau-Süd (Wöhlerstr.) (Urnenwahlbezirk)","results":{"ulbig":15.4,"vogel":5.1,"festerling":18.6,"stange":25.6,"stosch":4.3,"hilbert":31.0}}
+{"name":"22300 - Trachau-Süd (Dreyßigplatz) (Urnenwahlbezirk)","results":{"ulbig":19.1,"vogel":4.5,"festerling":15.1,"stange":33.5,"stosch":2.3,"hilbert":25.4}}
+{"name":"22400 - Mickten (Lommatzscher Str.) (Urnenwahlbezirk)","results":{"ulbig":19.4,"vogel":8.8,"festerling":22.1,"stange":20.9,"stosch":1.8,"hilbert":27.1}}
+{"name":"22501 - Mickten (An der Flutrinne) (Urnenwahlbezirk)","results":{"ulbig":20.6,"vogel":6.4,"festerling":13.9,"stange":26.1,"stosch":2.7,"hilbert":30.3}}
+{"name":"22502 - Mickten (Sternstr.) (Urnenwahlbezirk)","results":{"ulbig":17.4,"vogel":4.4,"festerling":11.4,"stange":32.5,"stosch":5.3,"hilbert":29.0}}
+{"name":"22600 - Mickten (Altmickten)/Übigau-Nord (Urnenwahlbezirk)","results":{"ulbig":20.0,"vogel":5.9,"festerling":20.2,"stange":32.9,"stosch":1.4,"hilbert":19.5}}
+{"name":"22700 - Übigau-Süd (Urnenwahlbezirk)","results":{"ulbig":18.7,"vogel":5.0,"festerling":18.0,"stange":28.1,"stosch":2.5,"hilbert":27.6}}
+{"name":"23100 - Kaditz (Wächterstr.) (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":6.3,"festerling":19.6,"stange":23.3,"stosch":2.3,"hilbert":31.7}}
+{"name":"23200 - Kaditz (Peschelstr.) (Urnenwahlbezirk)","results":{"ulbig":14.2,"vogel":5.6,"festerling":20.8,"stange":28.1,"stosch":5.0,"hilbert":26.4}}
+{"name":"23300 - Kaditz (Altkaditz) (Urnenwahlbezirk)","results":{"ulbig":20.4,"vogel":4.8,"festerling":18.5,"stange":21.3,"stosch":1.3,"hilbert":33.7}}
+{"name":"23400 - Kaditz (Riegelplatz) (Urnenwahlbezirk)","results":{"ulbig":19.0,"vogel":6.3,"festerling":16.8,"stange":22.2,"stosch":1.5,"hilbert":34.1}}
+{"name":"24100 - Trachau (Cottbuser Str.) (Urnenwahlbezirk)","results":{"ulbig":13.8,"vogel":4.2,"festerling":8.6,"stange":37.0,"stosch":1.0,"hilbert":35.3}}
+{"name":"24200 - Trachau (Wahnsdorfer Str.) (Urnenwahlbezirk)","results":{"ulbig":13.3,"vogel":3.3,"festerling":5.7,"stange":44.7,"stosch":3.1,"hilbert":30.0}}
+{"name":"24300 - Trachau (Stephanstr.) (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":4.0,"festerling":9.5,"stange":36.1,"stosch":1.6,"hilbert":32.1}}
+{"name":"24400 - Trachau (Platanenstr.) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":2.5,"festerling":7.8,"stange":40.8,"stosch":1.6,"hilbert":30.8}}
+{"name":"24500 - Trachau (Trobischstr.) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":6.8,"festerling":13.3,"stange":29.8,"stosch":1.8,"hilbert":31.1}}
+{"name":"24700 - Trachau (Richard-Rösch-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":5.3,"festerling":7.3,"stange":36.2,"stosch":1.7,"hilbert":33.1}}
+{"name":"24800 - Trachau (Neuländer Str.) (Urnenwahlbezirk)","results":{"ulbig":15.6,"vogel":6.4,"festerling":9.0,"stange":32.0,"stosch":1.9,"hilbert":35.1}}
+{"name":"25100 - Leipziger Vorstadt-Nordwest (Liststr.) (Urnenwahlbezirk)","results":{"ulbig":13.8,"vogel":3.9,"festerling":10.2,"stange":42.9,"stosch":5.9,"hilbert":23.2}}
+{"name":"25200 - Pieschen-Nord (Riesaer Str.) (Urnenwahlbezirk)","results":{"ulbig":14.2,"vogel":6.1,"festerling":11.9,"stange":36.9,"stosch":6.1,"hilbert":24.7}}
+{"name":"25300 - Pieschen-Nord (Hellerauer Str.) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":4.1,"festerling":14.1,"stange":28.8,"stosch":2.5,"hilbert":31.7}}
+{"name":"25400 - Pieschen-Nord (Trachenberger Str.) (Urnenwahlbezirk)","results":{"ulbig":17.1,"vogel":5.6,"festerling":9.8,"stange":36.5,"stosch":7.6,"hilbert":23.4}}
+{"name":"25500 - Pieschen-Nord (Rückertstr.) (Urnenwahlbezirk)","results":{"ulbig":18.2,"vogel":4.8,"festerling":9.4,"stange":37.3,"stosch":4.4,"hilbert":26.0}}
+{"name":"25600 - Pieschen-Nord (Duckwitzstr.) (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":4.3,"festerling":7.3,"stange":36.5,"stosch":2.7,"hilbert":33.9}}
+{"name":"25700 - Trachenberge (Urnenwahlbezirk)","results":{"ulbig":14.7,"vogel":5.2,"festerling":11.5,"stange":35.0,"stosch":1.7,"hilbert":31.8}}
+{"name":"31100 - Klotzsche (Altklotzsche) (Urnenwahlbezirk)","results":{"ulbig":17.1,"vogel":6.0,"festerling":10.2,"stange":29.0,"stosch":1.3,"hilbert":36.3}}
+{"name":"31200 - Klotzsche (Lubminer Str.) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":7.6,"festerling":13.7,"stange":28.7,"stosch":0.2,"hilbert":33.5}}
+{"name":"31300 - Klotzsche (Grüner Weg) (Urnenwahlbezirk)","results":{"ulbig":16.6,"vogel":11.0,"festerling":13.0,"stange":29.0,"stosch":1.8,"hilbert":28.5}}
+{"name":"31400 - Klotzsche (Geschwister-Scholl-Str.) (Urnenwahlbezirk)","results":{"ulbig":12.3,"vogel":7.4,"festerling":10.3,"stange":22.5,"stosch":1.8,"hilbert":45.7}}
+{"name":"31500 - Klotzsche (Königswald-Süd) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":5.6,"festerling":11.8,"stange":24.1,"stosch":2.0,"hilbert":37.6}}
+{"name":"31601 - Klotzsche (Königswald-Nord) (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":4.1,"festerling":8.6,"stange":27.6,"stosch":1.6,"hilbert":42.7}}
+{"name":"31602 - Klotzsche (Königswald-Mitte) (Urnenwahlbezirk)","results":{"ulbig":17.0,"vogel":6.2,"festerling":9.5,"stange":24.9,"stosch":1.0,"hilbert":41.3}}
+{"name":"31701 - Klotzsche (Am Trobischberg) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":6.4,"festerling":7.8,"stange":33.1,"stosch":0.8,"hilbert":35.9}}
+{"name":"31702 - Klotzsche (Sargarder Weg) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":6.6,"festerling":11.3,"stange":24.9,"stosch":0.8,"hilbert":41.2}}
+{"name":"31800 - Klotzsche (Binzer Weg) (Urnenwahlbezirk)","results":{"ulbig":11.5,"vogel":5.6,"festerling":20.4,"stange":27.6,"stosch":2.0,"hilbert":32.9}}
+{"name":"32100 - Wilschdorf (Urnenwahlbezirk)","results":{"ulbig":16.1,"vogel":8.1,"festerling":14.8,"stange":21.0,"stosch":1.4,"hilbert":38.5}}
+{"name":"32201 - Rähnitz-Nord (Urnenwahlbezirk)","results":{"ulbig":19.2,"vogel":9.0,"festerling":16.4,"stange":15.3,"stosch":1.4,"hilbert":38.6}}
+{"name":"32202 - Rähnitz-Süd (Urnenwahlbezirk)","results":{"ulbig":23.3,"vogel":5.7,"festerling":11.5,"stange":24.4,"stosch":1.1,"hilbert":34.1}}
+{"name":"32300 - Hellerau (Festspielhaus) (Urnenwahlbezirk)","results":{"ulbig":14.1,"vogel":5.9,"festerling":11.1,"stange":30.2,"stosch":1.3,"hilbert":37.4}}
+{"name":"32400 - Hellerau (Markt) (Urnenwahlbezirk)","results":{"ulbig":10.0,"vogel":5.4,"festerling":8.3,"stange":33.1,"stosch":2.2,"hilbert":41.0}}
+{"name":"41100 - Loschwitz (Schevenstr.) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":3.1,"festerling":7.6,"stange":34.5,"stosch":2.1,"hilbert":36.0}}
+{"name":"41200 - Loschwitz (Körnerplatz) (Urnenwahlbezirk)","results":{"ulbig":19.8,"vogel":4.4,"festerling":7.5,"stange":31.5,"stosch":2.6,"hilbert":34.3}}
+{"name":"41300 - Oberloschwitz (Urnenwahlbezirk)","results":{"ulbig":17.8,"vogel":3.4,"festerling":4.6,"stange":32.2,"stosch":3.6,"hilbert":38.4}}
+{"name":"41400 - Wachwitz (Urnenwahlbezirk)","results":{"ulbig":11.2,"vogel":4.4,"festerling":13.1,"stange":35.0,"stosch":1.9,"hilbert":34.4}}
+{"name":"42100 - Weißer Hirsch (Urnenwahlbezirk)","results":{"ulbig":19.8,"vogel":2.4,"festerling":3.3,"stange":39.2,"stosch":3.8,"hilbert":31.5}}
+{"name":"42200 - Loschwitz-Nordost (Urnenwahlbezirk)","results":{"ulbig":19.4,"vogel":3.3,"festerling":4.6,"stange":37.6,"stosch":1.6,"hilbert":33.4}}
+{"name":"42400 - Bühlau (Neubühlauer Str.) (Urnenwahlbezirk)","results":{"ulbig":16.8,"vogel":2.8,"festerling":6.6,"stange":38.5,"stosch":1.4,"hilbert":33.9}}
+{"name":"42500 - Bühlau (Neukircher Str.) (Urnenwahlbezirk)","results":{"ulbig":19.3,"vogel":6.0,"festerling":6.9,"stange":30.0,"stosch":0.9,"hilbert":36.9}}
+{"name":"42600 - Bühlau (Ullersdorfer Str.) (Urnenwahlbezirk)","results":{"ulbig":20.9,"vogel":3.2,"festerling":9.7,"stange":27.8,"stosch":1.7,"hilbert":36.6}}
+{"name":"42700 - Alt-Bühlau/Quohren (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":4.1,"festerling":13.4,"stange":31.0,"stosch":1.6,"hilbert":36.5}}
+{"name":"42800 - Rochwitz (Urnenwahlbezirk)","results":{"ulbig":18.0,"vogel":4.4,"festerling":8.4,"stange":32.2,"stosch":1.6,"hilbert":35.4}}
+{"name":"42900 - Neu-Rochwitz (Urnenwahlbezirk)","results":{"ulbig":17.0,"vogel":5.9,"festerling":8.9,"stange":29.5,"stosch":0.4,"hilbert":38.4}}
+{"name":"43100 - Niederpoyritz (Urnenwahlbezirk)","results":{"ulbig":11.3,"vogel":4.6,"festerling":13.0,"stange":29.7,"stosch":3.3,"hilbert":38.1}}
+{"name":"43200 - Hosterwitz/Pillnitz (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":3.7,"festerling":12.2,"stange":37.5,"stosch":0.8,"hilbert":29.9}}
+{"name":"43400 - Oberpoyritz/Söbrigen (Urnenwahlbezirk)","results":{"ulbig":22.1,"vogel":7.2,"festerling":9.8,"stange":26.7,"stosch":1.0,"hilbert":33.2}}
+{"name":"51100 - Blasewitz (Händel-, Mendelssohnallee) (Urnenwahlbezirk)","results":{"ulbig":19.4,"vogel":5.7,"festerling":6.0,"stange":30.0,"stosch":1.4,"hilbert":37.5}}
+{"name":"51200 - Blasewitz (Schillerplatz) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":3.8,"festerling":4.3,"stange":31.7,"stosch":1.7,"hilbert":39.6}}
+{"name":"51400 - Blasewitz (Kretschmerstr.) (Urnenwahlbezirk)","results":{"ulbig":14.8,"vogel":3.3,"festerling":6.0,"stange":35.3,"stosch":2.6,"hilbert":37.9}}
+{"name":"51500 - Blasewitz (Oehmestr.) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":3.2,"festerling":7.1,"stange":37.2,"stosch":2.3,"hilbert":33.9}}
+{"name":"51600 - Neugruna (Gustav-Freytag-Str.) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":3.7,"festerling":5.7,"stange":40.3,"stosch":1.5,"hilbert":31.7}}
+{"name":"51700 - Neugruna (Polenzstr.) (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":3.4,"festerling":6.8,"stange":42.2,"stosch":2.0,"hilbert":29.9}}
+{"name":"52100 - Striesen-Ost (Sickingenstr.) (Urnenwahlbezirk)","results":{"ulbig":12.6,"vogel":3.8,"festerling":2.6,"stange":46.1,"stosch":2.6,"hilbert":32.3}}
+{"name":"52200 - Striesen-Ost (Jacobistr.) (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":3.7,"festerling":4.7,"stange":41.3,"stosch":2.9,"hilbert":32.1}}
+{"name":"52300 - Striesen-Ost (Pohlandstr.) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":2.4,"festerling":4.2,"stange":50.1,"stosch":1.7,"hilbert":26.2}}
+{"name":"52400 - Striesen-Ost (Dornblüthstr.) (Urnenwahlbezirk)","results":{"ulbig":15.0,"vogel":2.8,"festerling":4.1,"stange":37.4,"stosch":2.8,"hilbert":38.0}}
+{"name":"52501 - Striesen-Ost (Ermelstr.) (Urnenwahlbezirk)","results":{"ulbig":17.5,"vogel":3.4,"festerling":5.7,"stange":39.9,"stosch":3.3,"hilbert":30.3}}
+{"name":"52502 - Striesen-Ost (Wittenberger Str.-Ost) (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":3.1,"festerling":4.9,"stange":42.7,"stosch":1.3,"hilbert":33.4}}
+{"name":"52600 - Striesen-Ost (Voglerstr.) (Urnenwahlbezirk)","results":{"ulbig":12.8,"vogel":5.7,"festerling":5.3,"stange":39.9,"stosch":2.7,"hilbert":33.6}}
+{"name":"52701 - Striesen-Ost (Lauensteiner Str.-Nord) (Urnenwahlbezirk)","results":{"ulbig":18.8,"vogel":2.0,"festerling":8.7,"stange":37.4,"stosch":2.2,"hilbert":30.9}}
+{"name":"52702 - Striesen-Ost (Lauensteiner Str.-Süd) (Urnenwahlbezirk)","results":{"ulbig":20.6,"vogel":5.5,"festerling":12.3,"stange":27.0,"stosch":2.6,"hilbert":32.0}}
+{"name":"53100 - Johannstadt-Südost (Anton-Graff-Str.) (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":3.1,"festerling":6.7,"stange":38.8,"stosch":1.8,"hilbert":34.2}}
+{"name":"53200 - Striesen-Süd (Mosenstr.) (Urnenwahlbezirk)","results":{"ulbig":12.3,"vogel":3.5,"festerling":5.7,"stange":42.7,"stosch":3.7,"hilbert":32.1}}
+{"name":"53300 - Striesen-Süd (Müller-Berset-Str.) (Urnenwahlbezirk)","results":{"ulbig":17.1,"vogel":7.1,"festerling":10.4,"stange":33.0,"stosch":2.3,"hilbert":30.2}}
+{"name":"53400 - Johannstadt-Südost (Lipsiusstr.) (Urnenwahlbezirk)","results":{"ulbig":22.4,"vogel":5.7,"festerling":8.6,"stange":33.0,"stosch":0.2,"hilbert":30.1}}
+{"name":"53600 - Striesen-Süd (Haenel-Clauß-Platz) (Urnenwahlbezirk)","results":{"ulbig":12.4,"vogel":4.8,"festerling":10.3,"stange":31.4,"stosch":1.2,"hilbert":39.9}}
+{"name":"53700 - Striesen-Süd (Hepkeplatz) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":5.2,"festerling":11.5,"stange":32.5,"stosch":3.9,"hilbert":31.5}}
+{"name":"53800 - Striesen-Süd (Glashütter Str.) (Urnenwahlbezirk)","results":{"ulbig":12.5,"vogel":6.6,"festerling":10.2,"stange":31.6,"stosch":2.7,"hilbert":36.4}}
+{"name":"54100 - Striesen-West (Krenkelstr.) (Urnenwahlbezirk)","results":{"ulbig":14.2,"vogel":3.7,"festerling":6.3,"stange":41.7,"stosch":2.8,"hilbert":31.3}}
+{"name":"54200 - Striesen-West (Tittmannstr.) (Urnenwahlbezirk)","results":{"ulbig":14.2,"vogel":4.5,"festerling":5.4,"stange":43.3,"stosch":3.3,"hilbert":29.3}}
+{"name":"54300 - Striesen-West (Wormser Platz) (Urnenwahlbezirk)","results":{"ulbig":19.1,"vogel":5.8,"festerling":9.3,"stange":30.4,"stosch":0.4,"hilbert":35.0}}
+{"name":"54400 - Striesen-West (Löscherstr.) (Urnenwahlbezirk)","results":{"ulbig":19.4,"vogel":5.7,"festerling":7.7,"stange":31.1,"stosch":0.9,"hilbert":35.2}}
+{"name":"54501 - Striesen-West (Alemannenstr.-Nord) (Urnenwahlbezirk)","results":{"ulbig":19.5,"vogel":4.8,"festerling":7.4,"stange":29.2,"stosch":1.8,"hilbert":37.2}}
+{"name":"54502 - Striesen-West (Alemannenstr.-Süd) (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":4.5,"festerling":8.2,"stange":32.1,"stosch":1.9,"hilbert":35.2}}
+{"name":"54600 - Striesen-West (Altstriesen) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":5.1,"festerling":7.0,"stange":39.8,"stosch":2.1,"hilbert":29.6}}
+{"name":"55101 - Tolkewitz (Wehlener Str.) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":2.6,"festerling":11.7,"stange":30.9,"stosch":0.9,"hilbert":35.0}}
+{"name":"55102 - Tolkewitz (Theodorstr.) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":2.0,"festerling":12.3,"stange":37.2,"stosch":2.8,"hilbert":32.4}}
+{"name":"55200 - Tolkewitz (Knappestr.) (Urnenwahlbezirk)","results":{"ulbig":20.2,"vogel":4.5,"festerling":12.5,"stange":28.2,"stosch":1.3,"hilbert":33.2}}
+{"name":"55300 - Tolkewitz (Marienberger Str.) (Urnenwahlbezirk)","results":{"ulbig":16.4,"vogel":4.7,"festerling":12.5,"stange":30.3,"stosch":1.3,"hilbert":34.8}}
+{"name":"55400 - Seidnitz-Nord (Löwenhainer Str.) (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":6.7,"festerling":20.0,"stange":25.0,"stosch":1.7,"hilbert":30.0}}
+{"name":"55600 - Seidnitz-Nord (Enderstr.-Nord) (Urnenwahlbezirk)","results":{"ulbig":17.8,"vogel":5.3,"festerling":11.9,"stange":29.5,"stosch":1.4,"hilbert":34.0}}
+{"name":"55800 - Seidnitz-Nord (Schlottwitzer Str.) (Urnenwahlbezirk)","results":{"ulbig":20.0,"vogel":5.6,"festerling":11.4,"stange":26.2,"stosch":2.1,"hilbert":34.8}}
+{"name":"56100 - Seidnitz (Rennbahn) (Urnenwahlbezirk)","results":{"ulbig":13.8,"vogel":6.6,"festerling":15.2,"stange":29.0,"stosch":3.0,"hilbert":32.4}}
+{"name":"56200 - Seidnitz (Schilfweg) (Urnenwahlbezirk)","results":{"ulbig":18.0,"vogel":5.6,"festerling":22.0,"stange":27.2,"stosch":1.3,"hilbert":25.9}}
+{"name":"56300 - Seidnitz (Dobritzer Str.) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":4.9,"festerling":15.3,"stange":27.7,"stosch":1.9,"hilbert":34.7}}
+{"name":"56401 - Dobritz (Lassallestr.) (Urnenwahlbezirk)","results":{"ulbig":15.6,"vogel":5.9,"festerling":14.9,"stange":22.6,"stosch":1.0,"hilbert":39.9}}
+{"name":"56402 - Dobritz (Kadenstr.) (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":10.1,"festerling":14.0,"stange":23.8,"stosch":1.6,"hilbert":32.4}}
+{"name":"56501 - Seidnitz (Liebenauer Str) (Urnenwahlbezirk)","results":{"ulbig":19.3,"vogel":4.9,"festerling":17.7,"stange":25.4,"stosch":0.3,"hilbert":32.4}}
+{"name":"56502 - Seidnitz (Hellendorfer Str./Altseidnitz) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":6.0,"festerling":15.5,"stange":23.0,"stosch":1.9,"hilbert":37.6}}
+{"name":"56600 - Seidnitz (Rennplatzstr.) (Urnenwahlbezirk)","results":{"ulbig":19.2,"vogel":5.2,"festerling":19.2,"stange":16.7,"stosch":0.7,"hilbert":39.0}}
+{"name":"56800 - Seidnitz (Hirschbacher Weg) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":5.3,"festerling":12.7,"stange":30.1,"stosch":3.8,"hilbert":31.6}}
+{"name":"56900 - Seidnitz (Ulberndorfer Weg) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":4.8,"festerling":11.6,"stange":33.7,"stosch":3.0,"hilbert":33.4}}
+{"name":"57100 - Gruna (Zwinglistr.) (Urnenwahlbezirk)","results":{"ulbig":18.3,"vogel":3.0,"festerling":8.7,"stange":32.8,"stosch":2.3,"hilbert":34.9}}
+{"name":"57200 - Gruna (Falkensteinplatz) (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":3.0,"festerling":10.3,"stange":41.8,"stosch":2.5,"hilbert":27.8}}
+{"name":"57301 - Gruna (Junghans-/Hepkestr.) (Urnenwahlbezirk)","results":{"ulbig":17.3,"vogel":1.8,"festerling":13.0,"stange":26.7,"stosch":1.8,"hilbert":39.4}}
+{"name":"57302 - Gruna (Gartenheimallee) (Urnenwahlbezirk)","results":{"ulbig":15.8,"vogel":5.5,"festerling":8.3,"stange":27.3,"stosch":2.1,"hilbert":41.0}}
+{"name":"57400 - Gruna (Am Knie) (Urnenwahlbezirk)","results":{"ulbig":15.1,"vogel":4.6,"festerling":13.1,"stange":29.0,"stosch":1.2,"hilbert":37.1}}
+{"name":"57500 - Gruna (Rosenbergstr.) (Urnenwahlbezirk)","results":{"ulbig":11.0,"vogel":5.7,"festerling":13.5,"stange":28.9,"stosch":1.3,"hilbert":39.5}}
+{"name":"57600 - Gruna (Papstdorfer Str.) (Urnenwahlbezirk)","results":{"ulbig":20.9,"vogel":3.9,"festerling":10.5,"stange":29.3,"stosch":2.0,"hilbert":33.4}}
+{"name":"57700 - Gruna (Beilstr.) (Urnenwahlbezirk)","results":{"ulbig":19.9,"vogel":6.5,"festerling":7.3,"stange":36.0,"stosch":1.3,"hilbert":29.0}}
+{"name":"57800 - Gruna (Wiesenstr.)/Strehlen (Basteistr.) (Urnenwahlbezirk)","results":{"ulbig":22.7,"vogel":2.7,"festerling":9.2,"stange":25.8,"stosch":1.7,"hilbert":37.9}}
+{"name":"61100 - Leuben (Altleuben-Ost) (Urnenwahlbezirk)","results":{"ulbig":20.9,"vogel":3.3,"festerling":11.8,"stange":24.9,"stosch":1.8,"hilbert":37.4}}
+{"name":"61200 - Leuben (Stephensonstr.) (Urnenwahlbezirk)","results":{"ulbig":14.7,"vogel":6.4,"festerling":20.1,"stange":24.3,"stosch":0.7,"hilbert":33.7}}
+{"name":"61300 - Leuben (Kleinzschachwitzer Str.) (Urnenwahlbezirk)","results":{"ulbig":20.1,"vogel":8.0,"festerling":16.6,"stange":26.8,"stosch":0.6,"hilbert":27.9}}
+{"name":"61400 - Leuben/Niedersedlitz (Sachsenwerkstr.) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":9.9,"festerling":21.9,"stange":22.2,"stosch":2.9,"hilbert":29.7}}
+{"name":"61500 - Leuben (Altleuben-West) (Urnenwahlbezirk)","results":{"ulbig":16.6,"vogel":3.7,"festerling":15.8,"stange":29.1,"stosch":0.8,"hilbert":34.0}}
+{"name":"61600 - Leuben (Mockethaler Str.) (Urnenwahlbezirk)","results":{"ulbig":12.2,"vogel":6.1,"festerling":9.4,"stange":35.6,"stosch":2.5,"hilbert":34.3}}
+{"name":"61700 - Leuben (Birkwitzer Weg) (Urnenwahlbezirk)","results":{"ulbig":18.8,"vogel":7.4,"festerling":18.1,"stange":22.7,"stosch":2.6,"hilbert":30.4}}
+{"name":"61800 - Leuben (Rottwerndorfer Str.)/Dobritz-Süd (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":7.6,"festerling":21.6,"stange":27.7,"stosch":1.5,"hilbert":25.9}}
+{"name":"62101 - Laubegast (Sudetenstr.)/Alttolkewitz (Urnenwahlbezirk)","results":{"ulbig":16.2,"vogel":2.5,"festerling":15.8,"stange":29.9,"stosch":2.1,"hilbert":33.5}}
+{"name":"62102 - Laubegast (Kirchplatz) (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":4.1,"festerling":18.0,"stange":24.1,"stosch":2.0,"hilbert":36.1}}
+{"name":"62200 - Laubegast (Burgenlandstr.) (Urnenwahlbezirk)","results":{"ulbig":15.7,"vogel":7.4,"festerling":16.3,"stange":26.9,"stosch":0.8,"hilbert":32.8}}
+{"name":"62301 - Laubegast (Hallstätter Str) (Urnenwahlbezirk)","results":{"ulbig":18.0,"vogel":5.4,"festerling":15.3,"stange":27.4,"stosch":1.0,"hilbert":32.8}}
+{"name":"62302 - Laubegast (Kamelienweg) (Urnenwahlbezirk)","results":{"ulbig":17.8,"vogel":5.6,"festerling":15.0,"stange":18.9,"stosch":0.2,"hilbert":42.5}}
+{"name":"62400 - Laubegast (Altlaubegast) (Urnenwahlbezirk)","results":{"ulbig":13.0,"vogel":4.7,"festerling":18.6,"stange":28.6,"stosch":2.3,"hilbert":32.8}}
+{"name":"62501 - Laubegast (Melli-Beese-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":5.4,"festerling":12.5,"stange":27.0,"stosch":1.8,"hilbert":36.9}}
+{"name":"62502 - Laubegast (Gasteiner Str) (Urnenwahlbezirk)","results":{"ulbig":17.8,"vogel":5.6,"festerling":22.3,"stange":21.5,"stosch":1.7,"hilbert":31.1}}
+{"name":"62600 - Laubegast (Villacher Str.) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":6.3,"festerling":15.7,"stange":28.4,"stosch":1.4,"hilbert":34.7}}
+{"name":"63101 - Kleinzschachwitz-Nord (Urnenwahlbezirk)","results":{"ulbig":18.6,"vogel":4.0,"festerling":18.8,"stange":21.4,"stosch":1.0,"hilbert":36.2}}
+{"name":"63102 - Kleinzschachwitz-Mitte (Urnenwahlbezirk)","results":{"ulbig":22.8,"vogel":3.8,"festerling":12.9,"stange":27.3,"stosch":1.7,"hilbert":31.4}}
+{"name":"63200 - Kleinzschachwitz-Süd (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":6.9,"festerling":13.6,"stange":27.0,"stosch":3.0,"hilbert":31.3}}
+{"name":"63301 - Meußlitz-Nord (Urnenwahlbezirk)","results":{"ulbig":19.1,"vogel":5.8,"festerling":16.1,"stange":23.7,"stosch":0.6,"hilbert":34.8}}
+{"name":"63302 - Meußlitz-Süd (Urnenwahlbezirk)","results":{"ulbig":20.8,"vogel":5.0,"festerling":14.7,"stange":22.1,"stosch":0.9,"hilbert":36.6}}
+{"name":"63401 - Zschieren-Nord (Urnenwahlbezirk)","results":{"ulbig":27.0,"vogel":4.5,"festerling":18.4,"stange":19.9,"stosch":0.5,"hilbert":29.8}}
+{"name":"63402 - Zschieren-Süd (Urnenwahlbezirk)","results":{"ulbig":17.1,"vogel":5.6,"festerling":16.7,"stange":19.2,"stosch":1.2,"hilbert":40.3}}
+{"name":"64100 - Großzschachwitz (Alte Str.)/Sporbitz (Urnenwahlbezirk)","results":{"ulbig":16.8,"vogel":6.4,"festerling":16.1,"stange":19.1,"stosch":2.3,"hilbert":39.3}}
+{"name":"64200 - Großzschachwitz (Rathener Str.-Nord) (Urnenwahlbezirk)","results":{"ulbig":13.1,"vogel":6.0,"festerling":21.9,"stange":29.7,"stosch":3.2,"hilbert":26.1}}
+{"name":"64300 - Großzschachwitz (Rathener Str.-Mitte) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":9.0,"festerling":21.8,"stange":22.4,"stosch":1.3,"hilbert":26.6}}
+{"name":"64400 - Großzschachwitz (Rathener Str.-Süd) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":7.2,"festerling":18.3,"stange":32.6,"stosch":1.8,"hilbert":24.0}}
+{"name":"64500 - Großzschachwitz (Schweizstr.) (Urnenwahlbezirk)","results":{"ulbig":17.6,"vogel":2.3,"festerling":18.8,"stange":22.2,"stosch":2.9,"hilbert":36.2}}
+{"name":"71100 - Prohlis-Nord (Dohnaer Platz) (Urnenwahlbezirk)","results":{"ulbig":19.4,"vogel":8.1,"festerling":10.8,"stange":26.1,"stosch":2.2,"hilbert":33.3}}
+{"name":"71200 - Prohlis-Nord (Am Anger) (Urnenwahlbezirk)","results":{"ulbig":20.3,"vogel":5.6,"festerling":19.7,"stange":28.1,"stosch":1.5,"hilbert":24.8}}
+{"name":"71400 - Prohlis-Nord (Albert-Wolf-Platz) (Urnenwahlbezirk)","results":{"ulbig":17.7,"vogel":5.5,"festerling":20.3,"stange":26.2,"stosch":2.6,"hilbert":27.6}}
+{"name":"71500 - Prohlis-Nord (Jacob-Winter-Platz) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":9.3,"festerling":17.9,"stange":23.1,"stosch":3.4,"hilbert":30.2}}
+{"name":"72100 - Prohlis-Süd (Spremberger Str.) (Urnenwahlbezirk)","results":{"ulbig":14.7,"vogel":7.6,"festerling":19.3,"stange":27.8,"stosch":1.2,"hilbert":29.4}}
+{"name":"72200 - Prohlis-Süd (Finsterwalder Str.-West) (Urnenwahlbezirk)","results":{"ulbig":18.9,"vogel":7.8,"festerling":14.4,"stange":33.0,"stosch":0.7,"hilbert":25.2}}
+{"name":"72300 - Prohlis-Süd (Senftenberger Str.-Süd) (Urnenwahlbezirk)","results":{"ulbig":18.7,"vogel":9.7,"festerling":16.1,"stange":27.8,"stosch":2.0,"hilbert":25.8}}
+{"name":"72500 - Prohlis-Süd (Spreewalder Str.-Süd) (Urnenwahlbezirk)","results":{"ulbig":22.7,"vogel":5.5,"festerling":16.9,"stange":27.1,"stosch":0.6,"hilbert":27.1}}
+{"name":"72700 - Prohlis-Süd (Spreewalder Str.-Ost) (Urnenwahlbezirk)","results":{"ulbig":15.0,"vogel":7.9,"festerling":15.2,"stange":29.9,"stosch":2.0,"hilbert":30.1}}
+{"name":"73101 - Niedersedlitz (Friedrich-Ebert-Str.) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":6.7,"festerling":19.6,"stange":21.6,"stosch":1.5,"hilbert":33.4}}
+{"name":"73102 - Niedersedlitz (Sosaer Str.) (Urnenwahlbezirk)","results":{"ulbig":17.3,"vogel":6.0,"festerling":17.0,"stange":21.9,"stosch":2.1,"hilbert":35.7}}
+{"name":"73200 - Niedersedlitz (Dorfstr.) (Urnenwahlbezirk)","results":{"ulbig":13.5,"vogel":5.2,"festerling":20.1,"stange":21.7,"stosch":1.2,"hilbert":38.2}}
+{"name":"73300 - Niedersedlitz (Windmühlenstr.) (Urnenwahlbezirk)","results":{"ulbig":20.5,"vogel":7.9,"festerling":16.9,"stange":20.8,"stosch":1.7,"hilbert":32.3}}
+{"name":"74100 - Luga (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":7.7,"festerling":23.4,"stange":18.7,"stosch":1.5,"hilbert":30.8}}
+{"name":"74201 - Lockwitz-Nordwest (Urnenwahlbezirk)","results":{"ulbig":21.5,"vogel":4.0,"festerling":17.0,"stange":22.0,"stosch":1.2,"hilbert":34.3}}
+{"name":"74202 - Lockwitz-Südost (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":6.4,"festerling":16.6,"stange":20.3,"stosch":1.5,"hilbert":40.1}}
+{"name":"74301 - Nickern (Altnickern)/Kauscha (Urnenwahlbezirk)","results":{"ulbig":18.3,"vogel":7.6,"festerling":13.7,"stange":16.9,"stosch":1.5,"hilbert":41.9}}
+{"name":"74302 - Nickern (Nickerner Platz) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":7.0,"festerling":16.3,"stange":25.9,"stosch":2.0,"hilbert":32.4}}
+{"name":"75100 - Leubnitz (Fritz-Busch-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":8.0,"festerling":10.7,"stange":29.6,"stosch":0.9,"hilbert":34.9}}
+{"name":"75201 - Leubnitz (Wilhelm-Franke-Str.) (Urnenwahlbezirk)","results":{"ulbig":21.1,"vogel":4.3,"festerling":7.0,"stange":29.0,"stosch":0.9,"hilbert":37.8}}
+{"name":"75202 - Leubnitz (Leubnitzer Höhe) (Urnenwahlbezirk)","results":{"ulbig":11.8,"vogel":4.2,"festerling":13.5,"stange":29.0,"stosch":0.8,"hilbert":40.6}}
+{"name":"75300 - Leubnitz (Karl-Laux-Str.) (Urnenwahlbezirk)","results":{"ulbig":13.6,"vogel":7.6,"festerling":15.8,"stange":29.3,"stosch":2.7,"hilbert":31.0}}
+{"name":"75500 - Leubnitz (Altleubnitz) (Urnenwahlbezirk)","results":{"ulbig":14.0,"vogel":4.3,"festerling":12.8,"stange":34.7,"stosch":1.2,"hilbert":33.1}}
+{"name":"75600 - Leubnitz (Wieckestr.) (Urnenwahlbezirk)","results":{"ulbig":13.5,"vogel":6.4,"festerling":12.4,"stange":30.4,"stosch":1.9,"hilbert":35.4}}
+{"name":"75700 - Leubnitz (Clausen-Dahl-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":5.2,"festerling":12.7,"stange":25.6,"stosch":3.1,"hilbert":37.4}}
+{"name":"75800 - Leubnitz (Feuerbachstr.) (Urnenwahlbezirk)","results":{"ulbig":20.6,"vogel":5.4,"festerling":8.5,"stange":32.8,"stosch":1.5,"hilbert":31.3}}
+{"name":"75901 - Mockritz-Ost (Dora-Stock-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.4,"vogel":4.7,"festerling":6.9,"stange":26.4,"stosch":1.9,"hilbert":43.7}}
+{"name":"75902 - Mockritz-Ost (Gostritzer Str.-Nord) (Urnenwahlbezirk)","results":{"ulbig":13.2,"vogel":4.2,"festerling":8.6,"stange":30.4,"stosch":1.5,"hilbert":42.2}}
+{"name":"75903 - Mockritz-Ost (Gostritzer Str.-Süd) (Urnenwahlbezirk)","results":{"ulbig":13.3,"vogel":3.7,"festerling":8.5,"stange":30.6,"stosch":1.9,"hilbert":42.0}}
+{"name":"76100 - Strehlen (August-Bebel-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.4,"vogel":3.2,"festerling":6.1,"stange":43.6,"stosch":3.0,"hilbert":27.7}}
+{"name":"76200 - Strehlen (Rayskistr.) (Urnenwahlbezirk)","results":{"ulbig":15.8,"vogel":4.2,"festerling":8.8,"stange":33.5,"stosch":2.4,"hilbert":35.2}}
+{"name":"76300 - Strehlen (Lenbachstr.) (Urnenwahlbezirk)","results":{"ulbig":13.8,"vogel":1.0,"festerling":6.2,"stange":48.2,"stosch":2.7,"hilbert":28.2}}
+{"name":"76400 - Strehlen (Geystr.) (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":5.9,"festerling":4.5,"stange":32.6,"stosch":1.4,"hilbert":38.9}}
+{"name":"76500 - Strehlen (Eugen-Bracht-Str.) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":5.8,"festerling":12.7,"stange":31.9,"stosch":1.9,"hilbert":30.5}}
+{"name":"76600 - Strehlen (H.-Lohmar-Str.) (Urnenwahlbezirk)","results":{"ulbig":18.7,"vogel":6.1,"festerling":13.6,"stange":31.2,"stosch":2.4,"hilbert":28.0}}
+{"name":"76700 - Strehlen (Wilhelm-Lachnit-Str.) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":9.4,"festerling":25.0,"stange":25.9,"stosch":4.2,"hilbert":18.9}}
+{"name":"77100 - Reick (Gudehusstr.) (Urnenwahlbezirk)","results":{"ulbig":16.4,"vogel":3.9,"festerling":17.8,"stange":27.8,"stosch":1.6,"hilbert":32.4}}
+{"name":"77200 - Reick (Perronstr.) (Urnenwahlbezirk)","results":{"ulbig":16.9,"vogel":4.8,"festerling":12.5,"stange":29.7,"stosch":2.0,"hilbert":34.1}}
+{"name":"77300 - Reick (Lübbenauer Str.) (Urnenwahlbezirk)","results":{"ulbig":11.4,"vogel":7.7,"festerling":25.6,"stange":22.7,"stosch":3.7,"hilbert":28.9}}
+{"name":"81100 - Südvorstadt-West (Feldschlößchenstr.) (Urnenwahlbezirk)","results":{"ulbig":11.2,"vogel":5.0,"festerling":17.1,"stange":35.2,"stosch":3.4,"hilbert":28.0}}
+{"name":"81200 - Südvorstadt-West (Bayrische Str.) (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":4.4,"festerling":6.1,"stange":35.7,"stosch":3.0,"hilbert":32.8}}
+{"name":"81400 - Südvorstadt-West (Schnorrstr.-West) (Urnenwahlbezirk)","results":{"ulbig":19.8,"vogel":4.6,"festerling":8.3,"stange":36.0,"stosch":5.2,"hilbert":26.2}}
+{"name":"81500 - Südvorstadt-West (Eisenstuckstr.-Mitte) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":6.0,"festerling":8.0,"stange":44.3,"stosch":3.4,"hilbert":23.1}}
+{"name":"81700 - Südvorstadt-West (Nürnberger Platz/TU) (Urnenwahlbezirk)","results":{"ulbig":11.7,"vogel":3.9,"festerling":6.1,"stange":47.6,"stosch":4.4,"hilbert":26.4}}
+{"name":"81800 - Südvorstadt-West (Bayreuther Str.-West) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":3.5,"festerling":5.0,"stange":46.9,"stosch":1.3,"hilbert":27.8}}
+{"name":"81900 - Südvorstadt-West (Bayreuther Str.-Ost) (Urnenwahlbezirk)","results":{"ulbig":15.4,"vogel":1.6,"festerling":6.8,"stange":45.8,"stosch":4.5,"hilbert":25.9}}
+{"name":"82100 - Südvorstadt-Ost (Hochschulstr.) (Urnenwahlbezirk)","results":{"ulbig":13.1,"vogel":4.6,"festerling":6.4,"stange":49.2,"stosch":5.5,"hilbert":21.1}}
+{"name":"82200 - Südvorstadt-Ost (Uhlandstr.) (Urnenwahlbezirk)","results":{"ulbig":14.4,"vogel":2.8,"festerling":9.0,"stange":39.2,"stosch":4.4,"hilbert":30.2}}
+{"name":"82300 - Südvorstadt-Ost (Lukasplatz) (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":2.2,"festerling":3.2,"stange":41.2,"stosch":4.2,"hilbert":33.8}}
+{"name":"82400 - Südvorstadt-Ost (Ackermannstr.) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":2.6,"festerling":7.4,"stange":38.3,"stosch":3.1,"hilbert":32.6}}
+{"name":"82500 - Südvorstadt-Ost (Wundtstr.) (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":3.1,"festerling":0.3,"stange":54.0,"stosch":7.7,"hilbert":17.0}}
+{"name":"83100 - Räcknitz (Alträcknitz) (Urnenwahlbezirk)","results":{"ulbig":15.8,"vogel":4.1,"festerling":6.1,"stange":37.6,"stosch":2.9,"hilbert":33.5}}
+{"name":"83200 - Zschertnitz (Böllstr.) (Urnenwahlbezirk)","results":{"ulbig":11.7,"vogel":10.2,"festerling":10.6,"stange":28.5,"stosch":3.3,"hilbert":35.8}}
+{"name":"83300 - Zschertnitz (Auguste-Lazar-Str.) (Urnenwahlbezirk)","results":{"ulbig":19.2,"vogel":4.3,"festerling":12.8,"stange":29.4,"stosch":1.9,"hilbert":32.5}}
+{"name":"83400 - Zschertnitz (Nassauer Weg/Paradiesstr.) (Urnenwahlbezirk)","results":{"ulbig":16.1,"vogel":4.3,"festerling":9.1,"stange":32.9,"stosch":1.0,"hilbert":36.7}}
+{"name":"83500 - Zschertnitz (Rubensweg) (Urnenwahlbezirk)","results":{"ulbig":16.9,"vogel":5.5,"festerling":11.9,"stange":32.9,"stosch":2.4,"hilbert":30.3}}
+{"name":"83700 - Zschertnitz (Zschertnitzer Weg) (Urnenwahlbezirk)","results":{"ulbig":15.0,"vogel":5.7,"festerling":9.3,"stange":37.0,"stosch":1.3,"hilbert":31.6}}
+{"name":"83800 - Zschertnitz (Tizianstr.)/Strehlen-SW (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":5.4,"festerling":10.7,"stange":34.8,"stosch":2.6,"hilbert":30.2}}
+{"name":"84100 - Kleinpestitz (Muldaer Str.) (Urnenwahlbezirk)","results":{"ulbig":19.2,"vogel":4.0,"festerling":11.9,"stange":34.8,"stosch":0.9,"hilbert":29.2}}
+{"name":"84200 - Kleinpestitz (Eppendorfer Weg) (Urnenwahlbezirk)","results":{"ulbig":20.1,"vogel":3.2,"festerling":14.5,"stange":29.2,"stosch":1.5,"hilbert":31.6}}
+{"name":"84300 - Kleinpestitz (Dorfhainer Str.) (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":6.4,"festerling":13.9,"stange":26.2,"stosch":1.4,"hilbert":36.1}}
+{"name":"84400 - Kaitz (Urnenwahlbezirk)","results":{"ulbig":20.4,"vogel":5.2,"festerling":15.9,"stange":25.6,"stosch":3.0,"hilbert":30.0}}
+{"name":"84501 - Altmockritz/Altpestitz (Urnenwahlbezirk)","results":{"ulbig":14.1,"vogel":4.3,"festerling":9.2,"stange":29.9,"stosch":2.3,"hilbert":40.3}}
+{"name":"84502 - Mockritz (Welschhufer Str.)/Gostritz (Urnenwahlbezirk)","results":{"ulbig":15.3,"vogel":4.2,"festerling":11.4,"stange":27.9,"stosch":2.5,"hilbert":38.8}}
+{"name":"85100 - Coschütz-Ost (Urnenwahlbezirk)","results":{"ulbig":18.8,"vogel":2.5,"festerling":11.8,"stange":32.9,"stosch":2.1,"hilbert":32.0}}
+{"name":"85200 - Coschütz-West (Urnenwahlbezirk)","results":{"ulbig":19.6,"vogel":3.5,"festerling":12.8,"stange":28.1,"stosch":2.1,"hilbert":34.0}}
+{"name":"85301 - Gittersee-Nord (Urnenwahlbezirk)","results":{"ulbig":18.5,"vogel":8.1,"festerling":10.1,"stange":25.8,"stosch":1.1,"hilbert":36.2}}
+{"name":"85302 - Gittersee-Süd (Urnenwahlbezirk)","results":{"ulbig":20.9,"vogel":6.5,"festerling":11.3,"stange":19.8,"stosch":2.3,"hilbert":39.3}}
+{"name":"86100 - Plauen (Würzburger Str.-West) (Urnenwahlbezirk)","results":{"ulbig":12.7,"vogel":3.5,"festerling":8.4,"stange":41.5,"stosch":2.3,"hilbert":31.7}}
+{"name":"86200 - Plauen (Würzburger Str.-Ost) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":3.3,"festerling":6.7,"stange":37.2,"stosch":3.0,"hilbert":32.6}}
+{"name":"86300 - Plauen (Regensburger Str.) (Urnenwahlbezirk)","results":{"ulbig":13.3,"vogel":2.4,"festerling":6.2,"stange":45.4,"stosch":2.8,"hilbert":29.9}}
+{"name":"86400 - Plauen (Nöthnitzer Str.) (Urnenwahlbezirk)","results":{"ulbig":14.1,"vogel":6.0,"festerling":3.9,"stange":43.0,"stosch":2.6,"hilbert":30.4}}
+{"name":"86500 - Plauen (Müllerbrunnenstr.) (Urnenwahlbezirk)","results":{"ulbig":11.8,"vogel":1.9,"festerling":6.7,"stange":46.5,"stosch":5.1,"hilbert":28.0}}
+{"name":"86600 - Plauen (Kantstr.) (Urnenwahlbezirk)","results":{"ulbig":13.7,"vogel":5.8,"festerling":6.5,"stange":36.7,"stosch":3.0,"hilbert":34.2}}
+{"name":"86700 - Plauen (Friedrich-Hegel-Str.) (Urnenwahlbezirk)","results":{"ulbig":14.6,"vogel":1.8,"festerling":4.2,"stange":40.2,"stosch":2.7,"hilbert":36.6}}
+{"name":"86800 - Plauen (Hohenplauen) (Urnenwahlbezirk)","results":{"ulbig":17.6,"vogel":3.2,"festerling":3.6,"stange":40.9,"stosch":1.3,"hilbert":33.4}}
+{"name":"91101 - Cotta (Mobschatzer Str.) (Urnenwahlbezirk)","results":{"ulbig":15.0,"vogel":4.4,"festerling":15.9,"stange":33.2,"stosch":2.1,"hilbert":29.4}}
+{"name":"91102 - Cotta (Omsewitzer Str.) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":6.0,"festerling":13.4,"stange":37.3,"stosch":3.0,"hilbert":24.8}}
+{"name":"91200 - Cotta (Grillparzerplatz) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":8.2,"festerling":14.9,"stange":31.4,"stosch":3.3,"hilbert":25.9}}
+{"name":"91300 - Cotta (Weidentalstr.-West) (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":5.3,"festerling":14.9,"stange":31.4,"stosch":2.6,"hilbert":31.4}}
+{"name":"91400 - Cotta (Weidentalstr.-Ost) (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":5.2,"festerling":12.3,"stange":30.2,"stosch":1.0,"hilbert":33.4}}
+{"name":"91501 - Cotta (Rennersd. Str.)/Friedrichstadt-SW (Urnenwahlbezirk)","results":{"ulbig":16.0,"vogel":4.8,"festerling":14.5,"stange":35.3,"stosch":1.5,"hilbert":27.9}}
+{"name":"91502 - Cotta (Hölderlinstr.) (Urnenwahlbezirk)","results":{"ulbig":17.6,"vogel":5.4,"festerling":11.6,"stange":35.4,"stosch":3.7,"hilbert":26.2}}
+{"name":"92100 - Löbtau-Nord (Ebertplatz) (Urnenwahlbezirk)","results":{"ulbig":15.2,"vogel":4.3,"festerling":8.4,"stange":49.3,"stosch":4.1,"hilbert":18.7}}
+{"name":"92200 - Löbtau-Nord (Altlöbtau) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":3.7,"festerling":10.5,"stange":43.4,"stosch":3.7,"hilbert":23.3}}
+{"name":"92300 - Löbtau-Nord (Grumbacher Str.) (Urnenwahlbezirk)","results":{"ulbig":16.8,"vogel":3.9,"festerling":9.6,"stange":46.7,"stosch":2.9,"hilbert":20.1}}
+{"name":"92400 - Löbtau-Nord (Conertplatz) (Urnenwahlbezirk)","results":{"ulbig":10.9,"vogel":3.2,"festerling":14.9,"stange":47.3,"stosch":3.2,"hilbert":20.6}}
+{"name":"92500 - Löbtau-Nord (Malterstr-Nord) (Urnenwahlbezirk)","results":{"ulbig":15.1,"vogel":2.5,"festerling":9.1,"stange":46.3,"stosch":4.5,"hilbert":22.5}}
+{"name":"93101 - Löbtau-Süd (Schillingplatz) (Urnenwahlbezirk)","results":{"ulbig":13.5,"vogel":1.7,"festerling":9.5,"stange":45.2,"stosch":4.7,"hilbert":25.4}}
+{"name":"93102 - Löbtau-Süd (Bonhoefferplatz) (Urnenwahlbezirk)","results":{"ulbig":16.3,"vogel":4.0,"festerling":11.4,"stange":38.4,"stosch":5.2,"hilbert":24.8}}
+{"name":"93200 - Löbtau-Süd (Klingestr.) (Urnenwahlbezirk)","results":{"ulbig":15.6,"vogel":3.6,"festerling":9.3,"stange":43.0,"stosch":4.3,"hilbert":24.2}}
+{"name":"93300 - Löbtau-Süd (Altfrankener Str.) (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":5.0,"festerling":5.9,"stange":46.3,"stosch":3.6,"hilbert":21.1}}
+{"name":"93400 - Löbtau-Süd (Zauckeroder Str.) (Urnenwahlbezirk)","results":{"ulbig":15.5,"vogel":7.0,"festerling":10.1,"stange":40.1,"stosch":3.1,"hilbert":24.2}}
+{"name":"93500 - Löbtau-Süd (Deubener Str.) (Urnenwahlbezirk)","results":{"ulbig":12.9,"vogel":4.6,"festerling":11.7,"stange":39.0,"stosch":3.8,"hilbert":28.0}}
+{"name":"93600 - Löbtau-Süd (Rabenauer Str.) (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":3.7,"festerling":10.6,"stange":42.5,"stosch":2.9,"hilbert":23.6}}
+{"name":"94101 - Naußlitz (Koblenzer Str.) (Urnenwahlbezirk)","results":{"ulbig":13.5,"vogel":6.5,"festerling":14.9,"stange":36.0,"stosch":4.0,"hilbert":25.1}}
+{"name":"94102 - Naußlitz (Rhönweg) (Urnenwahlbezirk)","results":{"ulbig":13.9,"vogel":7.1,"festerling":13.0,"stange":30.7,"stosch":2.1,"hilbert":33.3}}
+{"name":"94200 - Wölfnitz/Naußlitz-West (Urnenwahlbezirk)","results":{"ulbig":14.6,"vogel":4.9,"festerling":16.4,"stange":33.3,"stosch":2.2,"hilbert":28.6}}
+{"name":"94400 - Naußlitz-Süd (Urnenwahlbezirk)","results":{"ulbig":13.6,"vogel":6.1,"festerling":15.6,"stange":27.5,"stosch":0.9,"hilbert":36.4}}
+{"name":"94501 - Dölzschen-Nord (Urnenwahlbezirk)","results":{"ulbig":17.5,"vogel":4.0,"festerling":5.9,"stange":31.3,"stosch":1.7,"hilbert":39.5}}
+{"name":"94502 - Dölzschen-Süd (Urnenwahlbezirk)","results":{"ulbig":17.9,"vogel":6.8,"festerling":9.3,"stange":29.1,"stosch":2.2,"hilbert":34.7}}
+{"name":"94600 - Niedergorbitz/Roßthal (Urnenwahlbezirk)","results":{"ulbig":15.6,"vogel":5.2,"festerling":14.8,"stange":31.9,"stosch":2.3,"hilbert":30.2}}
+{"name":"95100 - Gorb.-Süd (A.-Dietrich-Pl./Wölfn.Ring-W) (Urnenwahlbezirk)","results":{"ulbig":14.6,"vogel":5.0,"festerling":20.1,"stange":39.9,"stosch":1.9,"hilbert":18.5}}
+{"name":"95200 - Gorbitz-Süd (Wölfnitzer Ring-Ost) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":7.3,"festerling":23.7,"stange":27.2,"stosch":1.7,"hilbert":22.8}}
+{"name":"95400 - Gorbitz-Süd (Altgorbitzer Ring-Ost) (Urnenwahlbezirk)","results":{"ulbig":16.5,"vogel":9.5,"festerling":11.4,"stange":37.0,"stosch":1.1,"hilbert":24.5}}
+{"name":"95500 - Gorb.-Süd (Altgorb.Ring-Mitt/Hirtenstr.) (Urnenwahlbezirk)","results":{"ulbig":14.4,"vogel":6.9,"festerling":13.5,"stange":28.3,"stosch":2.8,"hilbert":34.1}}
+{"name":"95600 - Gorbitz-Süd (Wilsdruffer Ring) (Urnenwahlbezirk)","results":{"ulbig":9.5,"vogel":10.4,"festerling":28.5,"stange":32.0,"stosch":2.9,"hilbert":16.7}}
+{"name":"96100 - Gorbitz-Ost (Am Gorbitzbach) (Urnenwahlbezirk)","results":{"ulbig":13.4,"vogel":5.8,"festerling":16.7,"stange":40.7,"stosch":2.3,"hilbert":21.1}}
+{"name":"96300 - Gorbitz-Ost (Asternweg/Leutew. Ring-Ost) (Urnenwahlbezirk)","results":{"ulbig":14.6,"vogel":6.7,"festerling":15.4,"stange":39.5,"stosch":2.5,"hilbert":21.3}}
+{"name":"96600 - Gorbitz-Ost (Leutewitzer Ring-West) (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":4.9,"festerling":26.1,"stange":29.1,"stosch":1.2,"hilbert":24.1}}
+{"name":"97100 - Gorbitz-Nord (Omsewitzer Ring) (Urnenwahlbezirk)","results":{"ulbig":18.5,"vogel":10.2,"festerling":18.9,"stange":26.1,"stosch":2.8,"hilbert":23.5}}
+{"name":"97300 - Neu-Omsewitz (Ginster-/Sanddornstr.) (Urnenwahlbezirk)","results":{"ulbig":17.4,"vogel":7.2,"festerling":24.0,"stange":26.7,"stosch":5.2,"hilbert":19.6}}
+{"name":"97600 - Neu-Omsewitz (Harthaer /Schlehenstr.) (Urnenwahlbezirk)","results":{"ulbig":12.6,"vogel":6.7,"festerling":22.2,"stange":25.7,"stosch":4.9,"hilbert":27.9}}
+{"name":"98100 - Stetzsch (Urnenwahlbezirk)","results":{"ulbig":17.4,"vogel":9.5,"festerling":14.5,"stange":22.4,"stosch":1.7,"hilbert":34.6}}
+{"name":"98200 - Kemnitz/Briesnitz (Hammeraue) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":7.3,"festerling":18.2,"stange":25.0,"stosch":1.3,"hilbert":31.0}}
+{"name":"98300 - Briesnitz (Zschonerallee) (Urnenwahlbezirk)","results":{"ulbig":18.4,"vogel":4.7,"festerling":16.7,"stange":24.7,"stosch":1.1,"hilbert":34.3}}
+{"name":"98401 - Briesnitz (Gottfried-Keller-Platz) (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":7.0,"festerling":20.9,"stange":27.7,"stosch":0.8,"hilbert":27.7}}
+{"name":"98402 - Briesnitz (Auf der Scheibe) (Urnenwahlbezirk)","results":{"ulbig":17.2,"vogel":5.8,"festerling":21.2,"stange":27.9,"stosch":4.0,"hilbert":23.9}}
+{"name":"98500 - Omsewitz (Altomsewitz/Omsewitzer Höhe) (Urnenwahlbezirk)","results":{"ulbig":22.5,"vogel":6.8,"festerling":11.7,"stange":25.9,"stosch":1.1,"hilbert":32.0}}
+{"name":"98600 - Leutewitz/Omsewitz (Neuburgstädtel) (Urnenwahlbezirk)","results":{"ulbig":14.5,"vogel":5.1,"festerling":14.3,"stange":33.0,"stosch":1.6,"hilbert":31.4}}
+{"name":"99810 - Altfranken (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":5.4,"festerling":13.3,"stange":29.5,"stosch":0.6,"hilbert":33.1}}
+{"name":"90110 - Cossebaude-Nord (Urnenwahlbezirk)","results":{"ulbig":16.1,"vogel":6.9,"festerling":15.8,"stange":28.9,"stosch":2.2,"hilbert":30.1}}
+{"name":"90210 - Cossebaude-Süd/Neu-Leuteritz (Urnenwahlbezirk)","results":{"ulbig":20.0,"vogel":7.6,"festerling":13.3,"stange":26.2,"stosch":1.1,"hilbert":31.7}}
+{"name":"90311 - Gohlis-Ost (Urnenwahlbezirk)","results":{"ulbig":14.0,"vogel":10.1,"festerling":13.0,"stange":30.9,"stosch":0.7,"hilbert":31.3}}
+{"name":"90312 - Gohlis-West (Urnenwahlbezirk)","results":{"ulbig":18.6,"vogel":6.4,"festerling":14.2,"stange":28.6,"stosch":0.0,"hilbert":32.2}}
+{"name":"90410 - Niederwartha (Urnenwahlbezirk)","results":{"ulbig":20.5,"vogel":9.6,"festerling":10.8,"stange":22.3,"stosch":0.6,"hilbert":36.1}}
+{"name":"99110 - Gompitz (Urnenwahlbezirk)","results":{"ulbig":20.1,"vogel":8.0,"festerling":12.9,"stange":23.6,"stosch":1.1,"hilbert":34.4}}
+{"name":"99310 - Pennrich (Urnenwahlbezirk)","results":{"ulbig":19.8,"vogel":7.5,"festerling":12.7,"stange":28.7,"stosch":0.4,"hilbert":31.0}}
+{"name":"36110 - Langebrück-Nord (Urnenwahlbezirk)","results":{"ulbig":26.6,"vogel":5.6,"festerling":8.7,"stange":23.0,"stosch":1.3,"hilbert":34.7}}
+{"name":"36210 - Langebrück-Süd (Urnenwahlbezirk)","results":{"ulbig":17.3,"vogel":5.3,"festerling":4.6,"stange":31.9,"stosch":3.2,"hilbert":37.7}}
+{"name":"36310 - Heidehof (Urnenwahlbezirk)","results":{"ulbig":14.9,"vogel":5.3,"festerling":10.1,"stange":35.3,"stosch":2.1,"hilbert":32.4}}
+{"name":"90610 - Mobschatz (Urnenwahlbezirk)","results":{"ulbig":20.0,"vogel":7.9,"festerling":15.1,"stange":21.6,"stosch":0.8,"hilbert":34.5}}
+{"name":"90710 - Alt-Leu./Brab./Rennersd./Merbitz/Podemus (Urnenwahlbezirk)","results":{"ulbig":24.6,"vogel":9.6,"festerling":17.1,"stange":26.7,"stosch":0.5,"hilbert":21.4}}
+{"name":"90510 - OS Oberwartha (Urnenwahlbezirk)","results":{"ulbig":16.2,"vogel":8.1,"festerling":18.2,"stange":23.0,"stosch":2.0,"hilbert":32.4}}
+{"name":"36410 - OS Schönborn (Urnenwahlbezirk)","results":{"ulbig":18.1,"vogel":6.4,"festerling":14.1,"stange":24.1,"stosch":1.6,"hilbert":35.7}}
+{"name":"45110 - Weißig (Heidestr./Marienbäder) (Urnenwahlbezirk)","results":{"ulbig":19.8,"vogel":4.4,"festerling":8.6,"stange":25.5,"stosch":0.6,"hilbert":41.1}}
+{"name":"45210 - Weißig (Am Weißiger Bach) (Urnenwahlbezirk)","results":{"ulbig":22.8,"vogel":5.0,"festerling":14.6,"stange":18.8,"stosch":1.2,"hilbert":37.6}}
+{"name":"45310 - Weißig (An der Prießnitzaue) (Urnenwahlbezirk)","results":{"ulbig":21.3,"vogel":5.3,"festerling":13.4,"stange":25.3,"stosch":1.8,"hilbert":32.9}}
+{"name":"45410 - Weißig (Hauptstr.) (Urnenwahlbezirk)","results":{"ulbig":22.7,"vogel":6.4,"festerling":11.9,"stange":21.9,"stosch":1.4,"hilbert":35.7}}
+{"name":"45510 - Weißig (Bergstr.) (Urnenwahlbezirk)","results":{"ulbig":24.2,"vogel":4.0,"festerling":8.5,"stange":26.9,"stosch":1.8,"hilbert":34.5}}
+{"name":"46110 - Gönnsdorf (Urnenwahlbezirk)","results":{"ulbig":22.5,"vogel":4.9,"festerling":11.5,"stange":14.3,"stosch":0.5,"hilbert":46.3}}
+{"name":"46210 - Pappritz-West (Urnenwahlbezirk)","results":{"ulbig":15.9,"vogel":6.0,"festerling":23.4,"stange":18.9,"stosch":1.1,"hilbert":34.6}}
+{"name":"46310 - Pappritz-Ost (Urnenwahlbezirk)","results":{"ulbig":21.9,"vogel":6.4,"festerling":11.7,"stange":22.5,"stosch":0.9,"hilbert":36.5}}
+{"name":"46410 - Cunnersdorf/Rockau (Urnenwahlbezirk)","results":{"ulbig":23.8,"vogel":8.0,"festerling":20.5,"stange":16.4,"stosch":1.5,"hilbert":29.8}}
+{"name":"47110 - Schönfeld/Krieschendorf/Malschendorf (Urnenwahlbezirk)","results":{"ulbig":18.7,"vogel":7.4,"festerling":13.3,"stange":20.8,"stosch":0.9,"hilbert":38.8}}
+{"name":"47210 - Schullwitz/Eschdorf/Rossendorf (Urnenwahlbezirk)","results":{"ulbig":26.0,"vogel":9.2,"festerling":16.8,"stange":13.1,"stosch":0.7,"hilbert":34.2}}
+{"name":"47310 - Borsberg/Reitzendorf/Zaschendorf (Urnenwahlbezirk)","results":{"ulbig":20.7,"vogel":5.9,"festerling":17.2,"stange":20.7,"stosch":1.6,"hilbert":34.0}}
+{"name":"35110 - Lausa-Fuchsberg (Urnenwahlbezirk)","results":{"ulbig":16.7,"vogel":5.1,"festerling":9.0,"stange":25.3,"stosch":0.3,"hilbert":43.6}}
+{"name":"35310 - Lausa (Alte Dresdner Str./Schönburgstr.) (Urnenwahlbezirk)","results":{"ulbig":15.4,"vogel":5.8,"festerling":11.8,"stange":25.5,"stosch":0.8,"hilbert":40.7}}
+{"name":"35410 - Alt-Lausa/Friedersdorf (Urnenwahlbezirk)","results":{"ulbig":21.1,"vogel":6.6,"festerling":12.0,"stange":21.4,"stosch":1.5,"hilbert":37.4}}
+{"name":"35510 - Gomlitz/Alt-Weixdorf (Urnenwahlbezirk)","results":{"ulbig":23.2,"vogel":6.3,"festerling":11.2,"stange":15.9,"stosch":1.3,"hilbert":42.2}}
+{"name":"35610 - Marsdorf (Urnenwahlbezirk)","results":{"ulbig":35.6,"vogel":6.7,"festerling":5.8,"stange":28.8,"stosch":2.9,"hilbert":20.2}}
 ]
