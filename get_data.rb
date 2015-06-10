@@ -9,7 +9,7 @@ results = []
 page.links_with(:href => /uebersicht_direktwahl_wahlbezirk/).each do |wahlbezirk_link|
   wahlbezirk = wahlbezirk_link.click
 
-  puts({
+  results.push({
     "name" => wahlbezirk.at("h2").text,
     "results" => {
       "ulbig" => wahlbezirk.at("table.ui-chart-content tr:nth(1) span").text.sub!(',','.').to_f,
@@ -19,5 +19,7 @@ page.links_with(:href => /uebersicht_direktwahl_wahlbezirk/).each do |wahlbezirk
       "stosch" => wahlbezirk.at("table.ui-chart-content tr:nth(5) span").text.sub!(',','.').to_f,
       "hilbert" => wahlbezirk.at("table.ui-chart-content tr:nth(6) span").text.sub!(',','.').to_f
     }
-  }.to_json)
+  })
 end
+
+puts results.to_json

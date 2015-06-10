@@ -2,7 +2,7 @@
 
 require 'json'
 
-results = {
+output = {
   "ulbig" => [],
   "vogel" => [],
   "festerling" => [],
@@ -11,16 +11,16 @@ results = {
   "hilbert" => []
 }
 
-while line = gets
-  wahlbezirk = JSON.parse(line)
+results = JSON.parse(gets(nil))
 
+results.each do |wahlbezirk|
   for candidate, value in wahlbezirk["results"]
-    results[candidate] << {"name" => wahlbezirk["name"], "value" => value}
+    output[candidate] << {"name" => wahlbezirk["name"], "value" => value}
   end
 end
 
-for candidate, _values in results
-  results[candidate].sort! {|a,b| (a["value"] <=> b["value"]) * (-1)}
+for candidate, _values in output
+  output[candidate].sort! {|a,b| (a["value"] <=> b["value"]) * (-1)}
 end
 
-puts results.to_json
+puts output.to_json
